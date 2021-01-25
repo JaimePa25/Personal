@@ -1,0 +1,23 @@
+#Compiled sources#
+*.class
+
+#Packages#
+*.gz
+*.gzip
+*.rar
+*.tar
+*.tar.Z
+*.tar.gz
+*.tgz
+*.zip
+*.7z
+*.dmg
+*.iso
+*.jar
+
+#Logs#
+*.log
+public.log
+
+#Bins#
+private/
